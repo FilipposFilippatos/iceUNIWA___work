@@ -1,0 +1,36 @@
+501#Mouseio Aianis#Aiani, Kozani#Mouseia#101
+502#Archaiologiko Mouseio Elefsinas#38°2′27″N 23°32′15″E#Mouseia#102
+503#Romaiko ydragogeo#Dimitros 74, Elefsina 19200#Istorika Mnimeia#102
+504#Archaiologikos choros Elefsinas#Leof. Ieras Odou, Elefsina#Istorika Mnimeia#102
+505#Ieros Naos Panagias Elefsinas#Elefsina 19200#Ekklisies - Topoi Latreias#102
+506#Archaiologiko Mouseio Thessalonikis#Mandilara 6, Thessaloniki#Mouseia#103
+507#Mouseio Vyzantinou Politismou#Leof. Stratou 2, Thessaloniki#Mouseia#103
+508#Lefkos Pyrgos#Paralia Thessalonikis#Istorika Mnimeia#103
+509#Rotonta#Plateia Agiou Georgiou, Thessaloniki#Istorika Mnimeia#103
+510#Aristotelio Panepistimio Thessalonikis#Panepistimiopoli, Thessaloniki#Panepistimia#103
+511#Panepistimio Makedonias#Egnatias 156, Thessaloniki#Panepistimia#103
+512#Nosokomeio ACHEPA#Stilp. Kyriakidi 1, Thessaloniki#Nosokomeia#103
+513#Limani Thessalonikis#Limani Thessalonikis#Limania#103
+514#Aerodromio Makedonia#Thermi, Thessaloniki#Aerodromia#103
+515#PAOK Stadio Toumbas#Kleanthous 12, Thessaloniki#Athlitikes egkatastaseis#103
+516#Archaiologiko Mouseio Patron#Mezapos 42, Patra#Mouseia#104
+517#Kastro Patron#Akropoli Patron#Istorika Mnimeia#104
+518#Panepistimio Patron#Panepistimiopoli, Rio#Panepistimia#104
+519#Limani Patron#Akti Dymaion, Patra#Limania#104
+520#Nosokomeio Patron#Rio, Patra#Nosokomeia#104
+521#Panachaiki GE Gipedo#Patra#Athlitikes egkatastaseis#104
+522#Istoriko Mouseio Kritis#Lysimachou Kalokerinou 27, Irakleio#Mouseia#105
+523#Archaiologiko Mouseio Irakleiou#Xanthouddou 2, Irakleio#Mouseia#105
+524#Knossos#Vasiliki Odos, Irakleio#Istorika Mnimeia#105
+525#Venetsianiika Teichi Irakleiou#Irakleio#Istorika Mnimeia#105
+526#Panepistimio Kritis#Voutes, Irakleio#Panepistimia#105
+527#Aerodromio Nikos Kazantzakis#Irakleio 71601#Aerodromia#105
+528#Limani Irakleiou#Limani Irakleiou#Limania#105
+529#Panagiotio Nosokomeio Irakleiou#Knosou, Irakleio#Nosokomeia#105
+530#OFI Gipedo Theodoros Vardinogiannis#Leof. Ikarou, Irakleio#Athlitikes egkatastaseis#105
+531#Viomichaniki Periochi Kozanis#Kozani#Simantikes Viomichanies i Epicheiriseis#101
+532#DEI Lignitiko Kentro Dytikis Makedonias#Ptolemaida, Kozani#Simantikes Viomichanies i Epicheiriseis#101
+533#Nosokomeio Kozanis Mamatsio#Kozani 50100#Nosokomeia#101
+534#Panepistimio Dytikis Makedonias#Koilada, Kozani#Panepistimia#101
+535#ELVO Elefsinas#Elefsina#Simantikes Viomichanies i Epicheiriseis#102
+536#Telonio Elefsinas#Elefsina#Dimosies (kai Kyvernitikes) Yperesies#102
