@@ -6,13 +6,13 @@ Created an engaging gameplay experience combining narrative, navigation, and int
 Download link: https://drive.google.com/drive/folders/151gWggn11oX_aKgGPvMw6gsIctUdD2uv?usp=sharing
 
 # Intro
-![INTRO](/Human-Computer%20Interaction%20%28HCI%29/Screenshots/INTRO.png)
+![INTRO](Screenshots/INTRO.png)
 # Town
-![Town](/Human-Computer%20Interaction%20%28HCI%29/Screenshots/Town.png)
+![Town](Screenshots/Town.png)
 # Commander's Tower
-![Tower](/Human-Computer%20Interaction%20%28HCI%29/Screenshots/Tower.png)
+![Tower](Screenshots/Tower.png)
 # Castle Walls
-![CastleWalls](/Human-Computer%20Interaction%20%28HCI%29/Screenshots/CastleWalls.png)
+![CastleWalls](Screenshots/CastleWalls.png)
 # Lady Market
 Buy items from the lady.<br />
-![MarketItems](/Human-Computer%20Interaction%20%28HCI%29/Screenshots/MarketItems.png)
+![MarketItems](Screenshots/MarketItems.png)
