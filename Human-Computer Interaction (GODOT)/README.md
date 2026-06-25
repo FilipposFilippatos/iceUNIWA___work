@@ -18,3 +18,4 @@ Buy items from the lady.<br />
 ![MarketItems](Screenshots/MarketItems.png)
 # Blacksmith
 ![Blacksmith](Screenshots/Blacksmith.png)
+![Armor](Screenshots/Armor.png)
