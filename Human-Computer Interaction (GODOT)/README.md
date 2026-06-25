@@ -9,6 +9,7 @@ Download link: https://drive.google.com/drive/folders/151gWggn11oX_aKgGPvMw6gsIc
 ![INTRO](Screenshots/INTRO.png)
 # Town
 ![Town](Screenshots/Town.png)
+![Fountain](Screenshots/Fountain.png)
 # Commander's Tower
 ![Tower](Screenshots/Tower.png)
 # Castle Walls
