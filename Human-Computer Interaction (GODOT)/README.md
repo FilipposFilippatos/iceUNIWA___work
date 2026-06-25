@@ -16,3 +16,5 @@ Download link: https://drive.google.com/drive/folders/151gWggn11oX_aKgGPvMw6gsIc
 # Lady Market
 Buy items from the lady.<br />
 ![MarketItems](Screenshots/MarketItems.png)
+# Blacksmith
+![Blacksmith](Screenshots/Blacksmith.png)
